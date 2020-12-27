@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Hello! Welcome to the Arctic Blog
+This is my personal website. Here I post my notes for my university courses, which were handwritten on my iPad. 
+Be wary of downloading/viewing them, as since all my notes are handwritten, the file sizes are substantial. Moreover, try not to print them, since I use many light colours in my notes, and these may not show if you print in grayscale/B&W.
+If you have any queries, feel free to contact me through email at marcus.chanwc@gmail.com.
 
-You can use the [editor on GitHub](https://github.com/mcpenguin/the-arctic-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## _Course Codes Descriptions_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### University of Waterloo - Honours Mathematics (2020 - 2025)
+#### 1A (Fall 2020)
+**[MATH 147 - Calculus 1 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/MATH%20147.pdf)** : - Taught by Brian Forrest <br>
 
-### Markdown
+**[MATH 145 - Algebra (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/MATH%20145.pdf)** : - Taught by Nickolas Rollick <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[CS 145 - Designing Functional Programs (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/CS%20145%20(Computer%20History).pdf)** : - Taught by Gordon Cormack (note: I only have Computer History notes for this class). <br>
 
-```markdown
-Syntax highlighted code block
+**[PHIL 145 - Introduction to Critical Thinking](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/PHIL%20145.pdf)** : - Taught by Greg Andres <br>
 
-# Header 1
-## Header 2
-### Header 3
+**[GEOG 101 - Human Geographies](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/GEOG%20101.pdf)** : - Taught by Brent Doberstein <br>
 
-- Bulleted
-- List
+### Sunway College (Malaysia) - Cambridge GCE A-Levels (2018 - 2020)
 
-1. Numbered
-2. List
+<p>Note: these notes were made only a few months after I acquired my iPad, and as such are slightly messy and disorganised. It might be harder to extract the relevant information from them, and it might be more difficult to revise from them.</p>
+<p>Additionally, these notes follow the 2018-2020 syllabus, and were not updated to match the newer syllabuses. Thus, some information might be missing that might be needed for the current syllabuses.</p>
+<p>I have also only included a selected few of my notes, as I feel many of my AS notes are too messy for publication. Moreover, I did not have ample time to procure proper notes for Physics, and thus only used an annotated version of Z-Notes when revising for my exams.</p>
 
-**Bold** and _Italic_ and `Code` text
+**[Chemistry (9701)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Chemistry%20Personal%20Notes.pdf)** (AS/A2) - Taught by Jing Ying Hoo
 
-[Link](url) and ![Image](src)
-```
+**[Further Pure Mathematics 1 (9231/1)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Further%20Pure%20Mathematics%201%20Personal%20Notes.pdf)** - Taught by Yong Yau
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**[Further Pure Mathematics 2 (9231/2)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Further%20Pure%20Mathematics%202%20Personal%20Notes.pdf)** - Taught by Yong Yau
 
-### Jekyll Themes
+**[Further Probability and Statistics (9231/4)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Further%20Probability%20and%20Statistics%20Personal%20Notes.pdf)** - Taught by Madam Lim
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcpenguin/the-arctic-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**[Pure Mathematics 3 (9709/3)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Pure%20Mathematics%203%20Personal%20Notes.pdf)** - Taught by Yong Yau
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**[Mechanics 1 (9709/6)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Mechanics%201%20Personal%20Notes.pdf)** - Taught by Amy Khoo
