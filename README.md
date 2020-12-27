@@ -6,7 +6,7 @@ If you have any queries, feel free to contact me through email at marcus.chanwc@
 ## _Course Codes Descriptions_
 **MATH 147** : Calculus 1 (Advanced)                      - Taught by Brian Forrest <br>
 **MATH 145** : Algebra (Advanced)                         - Taught by Nickolas Rollick <br>
-**CS 145**   : Designing Functional Programs (Advanced)   - Taught by Gordon Cormack <br>
+**CS 145**   : Designing Functional Programs (Advanced)   - Taught by Gordon Cormack (note: I only have Computer History notes for this class). https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/CS%20145%20(Computer%20History).pdf <br>
 **PHIL 145** : Introduction to Critical Thinking          - Taught by Greg Andres <br>
 **GEOG 101** : Human Geographies                          - Taught by Brent Doberstein <br>
   
