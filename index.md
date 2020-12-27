@@ -3,9 +3,9 @@
 Be wary of downloading/viewing them, as since all my notes are handwritten, the file sizes are substantial. Moreover, try not to print them, since I use many light colours in my notes, and these may not show if you print in grayscale/B&W.</p>
 
 ### Contact Details
-Email: <marcus.chanwc@gmail.com>
-LinkedIn: <https://www.linkedin.com/in/marcus-chan-8ba71317a/>
-YouTube: <https://www.youtube.com/channel/UCIAQzTXPVtht2H0hoz8NNAg>
+Email: <marcus.chanwc@gmail.com> <br>
+LinkedIn: <https://www.linkedin.com/in/marcus-chan-8ba71317a/> <br>
+YouTube: <https://www.youtube.com/channel/UCIAQzTXPVtht2H0hoz8NNAg> <br>
 
 ## _Course Codes Descriptions_
 
