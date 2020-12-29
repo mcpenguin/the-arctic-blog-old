@@ -1,28 +1,20 @@
-<h1>Hello! Welcome to the Arctic Blog</h1>
-<p>This is my personal website. Here I post my notes for my university courses, which were handwritten on my iPad. 
-Be wary of downloading/viewing them, as since all my notes are handwritten, the file sizes are substantial. Moreover, try not to print them, since I use many light colours in my notes, and these may not show if you print in grayscale/B&W.</p>
-
-<h3>Contact Details</h3>
-<ul>
-  <li>Email: <marcus.chanwc@gmail.com> </li>
-  <li>LinkedIn: <https://www.linkedin.com/in/marcus-chan-8ba71317a/> </li>
-  <li>YouTube: <https://www.youtube.com/channel/UCIAQzTXPVtht2H0hoz8NNAg> </li>
-</ul>
-
-<!--
+# Hello! Welcome to the Arctic Blog
+This is my personal website. Here I post my notes for my university courses, which were handwritten on my iPad. 
+Be wary of downloading/viewing them, as since all my notes are handwritten, the file sizes are substantial. Moreover, try not to print them, since I use many light colours in my notes, and these may not show if you print in grayscale/B&W.
+If you have any queries, feel free to contact me through email at marcus.chanwc@gmail.com.
 
 ## _Course Codes Descriptions_
 
 ### University of Waterloo - Honours Mathematics (2020 - 2025)
 
 #### 1B (Winter 2021)
-**[MATH 148 - Calculus 2 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20148.pdf)**: _(Chap 1-2)_ - Taught by Stephen New <br>
+**[MATH 148 - Calculus 2 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20148.pdf)**: - Taught by Stephen New <br>
 
 **MATH 146 - Linear Algebra 1 (Advanced)**: - Taught by Ross Willard <br>
 
-**CS 146 - Elementary Algorithm Design and Data Abstraction (Advanced)**: - Taught by Brad Lushman <br>
+**CS 146 - Elementary Algorithm Design and Data Abstraction (Advanced)**: - Taught by Brad Lushman
 
-**PSYCH 101 - Introductory Psychology**: - Taught by Paul Wehr <br>
+**PSYCH 101 - Introductory Psychology**: - Taught by Paul Wehr
 
 #### 1A (Fall 2020)
 **[MATH 147 - Calculus 1 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/MATH%20147.pdf)** : - Taught by Brian Forrest <br>
@@ -52,4 +44,8 @@ Be wary of downloading/viewing them, as since all my notes are handwritten, the 
 **[Pure Mathematics 3 (9709/3)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Pure%20Mathematics%203%20Personal%20Notes.pdf)** - Taught by Yong Yau
 
 **[Mechanics 1 (9709/6)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Mechanics%201%20Personal%20Notes.pdf)** - Taught by Amy Khoo
--->
+
+
+
+  
+
