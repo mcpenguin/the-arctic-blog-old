@@ -8,9 +8,9 @@ If you have any queries, feel free to contact me through email at marcus.chanwc@
 ### University of Waterloo - Honours Mathematics (2020 - 2025)
 
 #### 1B (Winter 2021)
-**[MATH 148 - Calculus 2 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20148.pdf)**: - Taught by Stephen New <br>
+**[MATH 148 - Calculus 2 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20148.pdf)**: - Taught by Stephen New (up to Chapter 2) <br>
 
-**MATH 146 - Linear Algebra 1 (Advanced)**: - Taught by Ross Willard <br>
+**[MATH 146 - Linear Algebra 1 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20146%20Personal%20Notes.pdf)**: - Taught by Ross Willard & Giang Tran(up to Chapter 1) <br>
 
 **CS 146 - Elementary Algorithm Design and Data Abstraction (Advanced)**: - Taught by Brad Lushman
 
