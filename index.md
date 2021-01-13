@@ -10,11 +10,11 @@ If you have any queries, feel free to contact me through email at marcus.chanwc@
 #### 1B (Winter 2021)
 **[MATH 148 - Calculus 2 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20148.pdf)**: - Taught by Stephen New (up to Chapter 2) <br>
 
-**[MATH 146 - Linear Algebra 1 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20146%20Personal%20Notes.pdf)**: - Taught by Ross Willard & Giang Tran(up to Chapter 1) <br>
+**[MATH 146 - Linear Algebra 1 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/MATH%20146%20Personal%20Notes.pdf)**: - Taught by Ross Willard & Giang Tran (up to Chapter 1) <br>
 
 **CS 146 - Elementary Algorithm Design and Data Abstraction (Advanced)**: - Taught by Brad Lushman
 
-**PSYCH 101 - Introductory Psychology**: - Taught by Paul Wehr
+**[PSYCH 101 - Introductory Psychology](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/PSYCH%20101%20Personal%20Notes.pdf)**: - Taught by Paul Wehr (up to Chapter 1)
 
 #### 1A (Fall 2020)
 **[MATH 147 - Calculus 1 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/MATH%20147.pdf)** : - Taught by Brian Forrest <br>
