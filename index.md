@@ -1,5 +1,5 @@
 # Hello! Welcome to the Arctic Blog
-This is my personal website. Here I post my notes for my university courses, which were handwritten on my iPad. 
+This is my personal website. Here I post my notes for my university courses, which were handwritten on my iPad.
 Be wary of downloading/viewing them, as since all my notes are handwritten, the file sizes are substantial. Moreover, try not to print them, since I use many light colours in my notes, and these may not show if you print in grayscale/B&W.
 If you have any queries, feel free to contact me through email at marcus.chanwc@gmail.com.
 
@@ -14,7 +14,7 @@ If you have any queries, feel free to contact me through email at marcus.chanwc@
 
 **CS 146 - Elementary Algorithm Design and Data Abstraction (Advanced)**: - Taught by Brad Lushman
 
-**[PSYCH 101 - Introductory Psychology](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/PSYCH%20101%20Personal%20Notes.pdf)**: - Taught by Paul Wehr (up to Chapter 1)
+**[PSYCH 101 - Introductory Psychology](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201B%20(ongoing)/PSYCH%20101%20Personal%20Notes.pdf)**: - Taught by Paul Wehr (up to Week 2)
 
 #### 1A (Fall 2020)
 **[MATH 147 - Calculus 1 (Advanced)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/UW%20Math%201A/MATH%20147.pdf)** : - Taught by Brian Forrest <br>
@@ -44,8 +44,3 @@ If you have any queries, feel free to contact me through email at marcus.chanwc@
 **[Pure Mathematics 3 (9709/3)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Pure%20Mathematics%203%20Personal%20Notes.pdf)** - Taught by Yong Yau
 
 **[Mechanics 1 (9709/6)](https://github.com/mcpenguin/the-arctic-blog/blob/main/Personal%20Notes/A-Levels/Mechanics%201%20Personal%20Notes.pdf)** - Taught by Amy Khoo
-
-
-
-  
-
